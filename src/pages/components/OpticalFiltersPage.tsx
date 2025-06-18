@@ -123,7 +123,7 @@ const OpticalFiltersPage = () => {
             <div className="rounded-lg bg-gray-50 p-6">
               <div className="flex items-center gap-4">
                 <Target className="h-8 w-8 text-primary-600" />
-                <h3 className="text-xl font-semibold">Treatment Types</h3>1
+                <h3 className="text-xl font-semibold">Treatment Types</h3>
               </div>
               <ul className="mt-4 space-y-2 text-gray-600">
                 <li>• Permanent hair reduction</li>
