@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "اقرأ المزيد",
+    "contactUs": "اتصل بنا",
+    "learnMore": "تعرف على المزيد",
+    "getStarted": "ابدأ الآن",
+    "viewDetails": "عرض التفاصيل",
+    "features": "المميزات",
+    "benefits": "الفوائد",
+    "specifications": "المواصفات",
+    "applications": "التطبيقات",
+    "customization": "التخصيص",
+    "quality": "الجودة",
+    "support": "الدعم"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "services": "الخدمات",
+    "about": "من نحن",
+    "contact": "اتصل بنا"
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "subtitle": "تواصل مع فريقنا",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "message": "الرسالة",
+    "submit": "إرسال",
+    "success": "تم إرسال الرسالة بنجاح",
+    "error": "خطأ في إرسال الرسالة"
+  },
+  "products": {
+    "ipl": {
+      "title": "أجهزة إزالة الشعر بتقنية IPL",
+      "description": "أجهزة IPL احترافية لإزالة الشعر بفعالية",
+      "features": {
+        "title": "المميزات الرئيسية",
+        "safety": "ميزات أمان متقدمة",
+        "effectiveness": "فعالية مثبتة",
+        "comfort": "راحة قصوى",
+        "technology": "أحدث التقنيات"
+      }
+    }
+  },
+  "customization": {
+    "title": "خيارات التخصيص",
+    "description": "خصص جهاز IPL الخاص بك لعلامتك التجارية",
+    "options": {
+      "design": "تصميم مخصص",
+      "features": "اختيار المميزات",
+      "branding": "دمج العلامة التجارية",
+      "packaging": "تغليف مخصص"
+    }
+  },
+  "services": {
+    "title": "خدماتنا",
+    "description": "حلول شاملة لتصنيع أجهزة IPL",
+    "types": {
+      "manufacturing": "التصنيع",
+      "design": "التصميم",
+      "consulting": "الاستشارات",
+      "support": "الدعم الفني"
+    }
+  },
+  "quality": {
+    "title": "ضمان الجودة",
+    "description": "تلبية المعايير الدولية",
+    "certifications": {
+      "title": "الشهادات",
+      "ce": "حاصل على شهادة CE",
+      "fda": "معتمد من FDA",
+      "rohs": "متوافق مع RoHS"
+    }
+  },
+  "about": {
+    "title": "من نحن",
+    "description": "شريكك الموثوق في تصنيع أجهزة IPL",
+    "values": {
+      "title": "قيمنا",
+      "innovation": "الابتكار",
+      "quality": "الجودة",
+      "reliability": "الموثوقية",
+      "partnership": "الشراكة"
+    }
+  },
+  "footer": {
+    "company": "الشركة",
+    "products": "المنتجات",
+    "support": "الدعم",
+    "legal": "القانونية",
+    "copyright": "© 2024 iShine. جميع الحقوق محفوظة."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Read More",
+    "contactUs": "Contact Us",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "viewDetails": "View Details",
+    "features": "Features",
+    "benefits": "Benefits",
+    "specifications": "Specifications",
+    "applications": "Applications",
+    "customization": "Customization",
+    "quality": "Quality",
+    "support": "Support"
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Submit",
+    "success": "Message sent successfully",
+    "error": "Error sending message"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL Hair Removal Devices",
+      "description": "Professional-grade IPL devices for effective hair removal",
+      "features": {
+        "title": "Key Features",
+        "safety": "Advanced Safety Features",
+        "effectiveness": "Proven Effectiveness",
+        "comfort": "Maximum Comfort",
+        "technology": "Latest Technology"
+      }
+    }
+  },
+  "customization": {
+    "title": "Customization Options",
+    "description": "Tailor your IPL device to your brand",
+    "options": {
+      "design": "Custom Design",
+      "features": "Feature Selection",
+      "branding": "Brand Integration",
+      "packaging": "Custom Packaging"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "Comprehensive IPL device manufacturing solutions",
+    "types": {
+      "manufacturing": "Manufacturing",
+      "design": "Design",
+      "consulting": "Consulting",
+      "support": "Technical Support"
+    }
+  },
+  "quality": {
+    "title": "Quality Assurance",
+    "description": "Meeting international standards",
+    "certifications": {
+      "title": "Certifications",
+      "ce": "CE Certified",
+      "fda": "FDA Approved",
+      "rohs": "RoHS Compliant"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Your trusted partner in IPL device manufacturing",
+    "values": {
+      "title": "Our Values",
+      "innovation": "Innovation",
+      "quality": "Quality",
+      "reliability": "Reliability",
+      "partnership": "Partnership"
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "products": "Products",
+    "support": "Support",
+    "legal": "Legal",
+    "copyright": "© 2024 iShine. All rights reserved."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Citește mai mult",
+    "contactUs": "Contactează-ne",
+    "learnMore": "Află mai multe",
+    "getStarted": "Începe",
+    "viewDetails": "Vezi detalii",
+    "features": "Caracteristici",
+    "benefits": "Beneficii",
+    "specifications": "Specificații",
+    "applications": "Aplicații",
+    "customization": "Personalizare",
+    "quality": "Calitate",
+    "support": "Suport"
+  },
+  "navigation": {
+    "home": "Acasă",
+    "products": "Produse",
+    "services": "Servicii",
+    "about": "Despre noi",
+    "contact": "Contact"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contactează echipa noastră",
+    "name": "Nume",
+    "email": "Email",
+    "message": "Mesaj",
+    "submit": "Trimite",
+    "success": "Mesaj trimis cu succes",
+    "error": "Eroare la trimiterea mesajului"
+  },
+  "products": {
+    "ipl": {
+      "title": "Dispozitive IPL pentru Epilare",
+      "description": "Dispozitive IPL profesionale pentru epilare eficientă",
+      "features": {
+        "title": "Caracteristici principale",
+        "safety": "Funcții avansate de siguranță",
+        "effectiveness": "Eficiență dovedită",
+        "comfort": "Confort maxim",
+        "technology": "Tehnologie de ultimă generație"
+      }
+    }
+  },
+  "customization": {
+    "title": "Opțiuni de personalizare",
+    "description": "Personalizează-ți dispozitivul IPL pentru marca ta",
+    "options": {
+      "design": "Design personalizat",
+      "features": "Selecție funcții",
+      "branding": "Integrare brand",
+      "packaging": "Ambalaj personalizat"
+    }
+  },
+  "services": {
+    "title": "Serviciile noastre",
+    "description": "Soluții complete pentru producția de dispozitive IPL",
+    "types": {
+      "manufacturing": "Producție",
+      "design": "Design",
+      "consulting": "Consultanță",
+      "support": "Suport tehnic"
+    }
+  },
+  "quality": {
+    "title": "Asigurarea calității",
+    "description": "Conformitate cu standardele internaționale",
+    "certifications": {
+      "title": "Certificări",
+      "ce": "Certificat CE",
+      "fda": "Aprobat FDA",
+      "rohs": "Conform RoHS"
+    }
+  },
+  "about": {
+    "title": "Despre noi",
+    "description": "Partenerul tău de încredere în producția de dispozitive IPL",
+    "values": {
+      "title": "Valorile noastre",
+      "innovation": "Inovație",
+      "quality": "Calitate",
+      "reliability": "Fiabilitate",
+      "partnership": "Parteneriat"
+    }
+  },
+  "footer": {
+    "company": "Companie",
+    "products": "Produse",
+    "support": "Suport",
+    "legal": "Legal",
+    "copyright": "© 2024 iShine. Toate drepturile rezervate."
+  }
+}

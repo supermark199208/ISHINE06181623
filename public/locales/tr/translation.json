@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Devamını Oku",
+    "contactUs": "Bize Ulaşın",
+    "learnMore": "Daha Fazla Bilgi",
+    "getStarted": "Başlayın",
+    "viewDetails": "Detayları Gör",
+    "features": "Özellikler",
+    "benefits": "Faydalar",
+    "specifications": "Teknik Özellikler",
+    "applications": "Uygulamalar",
+    "customization": "Özelleştirme",
+    "quality": "Kalite",
+    "support": "Destek"
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "services": "Hizmetler",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Ekibimizle iletişime geçin",
+    "name": "İsim",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "submit": "Gönder",
+    "success": "Mesaj başarıyla gönderildi",
+    "error": "Mesaj gönderilirken hata oluştu"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL Epilasyon Cihazları",
+      "description": "Etkili epilasyon için profesyonel IPL cihazları",
+      "features": {
+        "title": "Temel Özellikler",
+        "safety": "Gelişmiş Güvenlik Özellikleri",
+        "effectiveness": "Kanıtlanmış Etkinlik",
+        "comfort": "Maksimum Konfor",
+        "technology": "En Son Teknoloji"
+      }
+    }
+  },
+  "customization": {
+    "title": "Özelleştirme Seçenekleri",
+    "description": "IPL cihazınızı markanıza göre özelleştirin",
+    "options": {
+      "design": "Özel Tasarım",
+      "features": "Özellik Seçimi",
+      "branding": "Marka Entegrasyonu",
+      "packaging": "Özel Ambalaj"
+    }
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "description": "Kapsamlı IPL cihazı üretim çözümleri",
+    "types": {
+      "manufacturing": "Üretim",
+      "design": "Tasarım",
+      "consulting": "Danışmanlık",
+      "support": "Teknik Destek"
+    }
+  },
+  "quality": {
+    "title": "Kalite Güvencesi",
+    "description": "Uluslararası standartlara uygunluk",
+    "certifications": {
+      "title": "Sertifikalar",
+      "ce": "CE Sertifikalı",
+      "fda": "FDA Onaylı",
+      "rohs": "RoHS Uyumlu"
+    }
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "description": "IPL cihazı üretiminde güvenilir ortağınız",
+    "values": {
+      "title": "Değerlerimiz",
+      "innovation": "İnovasyon",
+      "quality": "Kalite",
+      "reliability": "Güvenilirlik",
+      "partnership": "Ortaklık"
+    }
+  },
+  "footer": {
+    "company": "Şirket",
+    "products": "Ürünler",
+    "support": "Destek",
+    "legal": "Yasal",
+    "copyright": "© 2024 iShine. Tüm hakları saklıdır."
+  }
+}

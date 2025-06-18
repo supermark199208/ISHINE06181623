@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Tovább",
+    "contactUs": "Kapcsolat",
+    "learnMore": "Tudjon meg többet",
+    "getStarted": "Kezdés",
+    "viewDetails": "Részletek",
+    "features": "Jellemzők",
+    "benefits": "Előnyök",
+    "specifications": "Specifikációk",
+    "applications": "Alkalmazások",
+    "customization": "Testreszabás",
+    "quality": "Minőség",
+    "support": "Támogatás"
+  },
+  "navigation": {
+    "home": "Főoldal",
+    "products": "Termékek",
+    "services": "Szolgáltatások",
+    "about": "Rólunk",
+    "contact": "Kapcsolat"
+  },
+  "contact": {
+    "title": "Kapcsolat",
+    "subtitle": "Lépjen kapcsolatba csapatunkkal",
+    "name": "Név",
+    "email": "E-mail",
+    "message": "Üzenet",
+    "submit": "Küldés",
+    "success": "Az üzenet sikeresen elküldve",
+    "error": "Hiba történt az üzenet küldése során"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL Szőrtelenítő Készülékek",
+      "description": "Professzionális IPL készülékek hatékony szőrtelenítéshez",
+      "features": {
+        "title": "Főbb jellemzők",
+        "safety": "Fejlett biztonsági funkciók",
+        "effectiveness": "Bizonyított hatékonyság",
+        "comfort": "Maximális kényelem",
+        "technology": "Legújabb technológia"
+      }
+    }
+  },
+  "customization": {
+    "title": "Testreszabási lehetőségek",
+    "description": "Szabja személyre IPL készülékét márkája számára",
+    "options": {
+      "design": "Egyedi dizájn",
+      "features": "Funkciók választéka",
+      "branding": "Márkaintegráció",
+      "packaging": "Egyedi csomagolás"
+    }
+  },
+  "services": {
+    "title": "Szolgáltatásaink",
+    "description": "Átfogó megoldások IPL készülékek gyártásához",
+    "types": {
+      "manufacturing": "Gyártás",
+      "design": "Tervezés",
+      "consulting": "Tanácsadás",
+      "support": "Műszaki támogatás"
+    }
+  },
+  "quality": {
+    "title": "Minőségbiztosítás",
+    "description": "Nemzetközi szabványoknak való megfelelés",
+    "certifications": {
+      "title": "Tanúsítványok",
+      "ce": "CE tanúsított",
+      "fda": "FDA jóváhagyott",
+      "rohs": "RoHS kompatibilis"
+    }
+  },
+  "about": {
+    "title": "Rólunk",
+    "description": "Az Ön megbízható partnere az IPL készülékek gyártásában",
+    "values": {
+      "title": "Értékeink",
+      "innovation": "Innováció",
+      "quality": "Minőség",
+      "reliability": "Megbízhatóság",
+      "partnership": "Partnerség"
+    }
+  },
+  "footer": {
+    "company": "Cég",
+    "products": "Termékek",
+    "support": "Támogatás",
+    "legal": "Jogi",
+    "copyright": "© 2024 iShine. Minden jog fenntartva."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "詳細を見る",
+    "contactUs": "お問い合わせ",
+    "learnMore": "もっと詳しく",
+    "getStarted": "始める",
+    "viewDetails": "詳細を表示",
+    "features": "特徴",
+    "benefits": "メリット",
+    "specifications": "仕様",
+    "applications": "用途",
+    "customization": "カスタマイズ",
+    "quality": "品質",
+    "support": "サポート"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "products": "製品",
+    "services": "サービス",
+    "about": "会社概要",
+    "contact": "お問い合わせ"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "チームにご連絡ください",
+    "name": "お名前",
+    "email": "メールアドレス",
+    "message": "メッセージ",
+    "submit": "送信",
+    "success": "メッセージが正常に送信されました",
+    "error": "メッセージの送信中にエラーが発生しました"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL脱毛器",
+      "description": "効果的な脱毛のためのプロフェッショナルグレードIPL機器",
+      "features": {
+        "title": "主な特徴",
+        "safety": "高度な安全機能",
+        "effectiveness": "実証された効果",
+        "comfort": "最大限の快適さ",
+        "technology": "最新テクノロジー"
+      }
+    }
+  },
+  "customization": {
+    "title": "カスタマイズオプション",
+    "description": "あなたのブランドに合わせてIPL機器をカスタマイズ",
+    "options": {
+      "design": "カスタムデザイン",
+      "features": "機能選択",
+      "branding": "ブランド統合",
+      "packaging": "カスタムパッケージ"
+    }
+  },
+  "services": {
+    "title": "サービス",
+    "description": "包括的なIPL機器製造ソリューション",
+    "types": {
+      "manufacturing": "製造",
+      "design": "デザイン",
+      "consulting": "コンサルティング",
+      "support": "技術サポート"
+    }
+  },
+  "quality": {
+    "title": "品質保証",
+    "description": "国際基準への適合",
+    "certifications": {
+      "title": "認証",
+      "ce": "CE認証取得",
+      "fda": "FDA承認",
+      "rohs": "RoHS準拠"
+    }
+  },
+  "about": {
+    "title": "会社概要",
+    "description": "IPL機器製造の信頼できるパートナー",
+    "values": {
+      "title": "企業理念",
+      "innovation": "革新",
+      "quality": "品質",
+      "reliability": "信頼性",
+      "partnership": "パートナーシップ"
+    }
+  },
+  "footer": {
+    "company": "会社情報",
+    "products": "製品",
+    "support": "サポート",
+    "legal": "法的情報",
+    "copyright": "© 2024 iShine. All rights reserved."
+  }
+}

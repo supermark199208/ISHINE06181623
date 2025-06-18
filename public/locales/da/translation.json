@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Læs mere",
+    "contactUs": "Kontakt os",
+    "learnMore": "Lær mere",
+    "getStarted": "Kom i gang",
+    "viewDetails": "Se detaljer",
+    "features": "Funktioner",
+    "benefits": "Fordele",
+    "specifications": "Specifikationer",
+    "applications": "Anvendelser",
+    "customization": "Tilpasning",
+    "quality": "Kvalitet",
+    "support": "Support"
+  },
+  "navigation": {
+    "home": "Hjem",
+    "products": "Produkter",
+    "services": "Tjenester",
+    "about": "Om os",
+    "contact": "Kontakt"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontakt vores team",
+    "name": "Navn",
+    "email": "E-mail",
+    "message": "Besked",
+    "submit": "Send",
+    "success": "Beskeden blev sendt med succes",
+    "error": "Fejl ved afsendelse af besked"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL Hårfjerningsenheder",
+      "description": "Professionelle IPL-enheder til effektiv hårfjerning",
+      "features": {
+        "title": "Hovedfunktioner",
+        "safety": "Avancerede sikkerhedsfunktioner",
+        "effectiveness": "Dokumenteret effektivitet",
+        "comfort": "Maksimal komfort",
+        "technology": "Nyeste teknologi"
+      }
+    }
+  },
+  "customization": {
+    "title": "Tilpasningsmuligheder",
+    "description": "Tilpas din IPL-enhed til dit brand",
+    "options": {
+      "design": "Tilpasset design",
+      "features": "Valg af funktioner",
+      "branding": "Brand integration",
+      "packaging": "Tilpasset emballage"
+    }
+  },
+  "services": {
+    "title": "Vores tjenester",
+    "description": "Omfattende løsninger til IPL-enhedsproduktion",
+    "types": {
+      "manufacturing": "Produktion",
+      "design": "Design",
+      "consulting": "Rådgivning",
+      "support": "Teknisk support"
+    }
+  },
+  "quality": {
+    "title": "Kvalitetssikring",
+    "description": "Overholdelse af internationale standarder",
+    "certifications": {
+      "title": "Certificeringer",
+      "ce": "CE-certificeret",
+      "fda": "FDA-godkendt",
+      "rohs": "RoHS-kompatibel"
+    }
+  },
+  "about": {
+    "title": "Om os",
+    "description": "Din pålidelige partner inden for IPL-enhedsproduktion",
+    "values": {
+      "title": "Vores værdier",
+      "innovation": "Innovation",
+      "quality": "Kvalitet",
+      "reliability": "Pålidelighed",
+      "partnership": "Partnerskab"
+    }
+  },
+  "footer": {
+    "company": "Virksomhed",
+    "products": "Produkter",
+    "support": "Support",
+    "legal": "Juridisk",
+    "copyright": "© 2024 iShine. Alle rettigheder forbeholdes."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Lasīt vairāk",
+    "contactUs": "Sazināties ar mums",
+    "learnMore": "Uzzināt vairāk",
+    "getStarted": "Sākt",
+    "viewDetails": "Skatīt detaļas",
+    "features": "Funkcijas",
+    "benefits": "Priekšrocības",
+    "specifications": "Specifikācijas",
+    "applications": "Pielietojumi",
+    "customization": "Pielāgošana",
+    "quality": "Kvalitāte",
+    "support": "Atbalsts"
+  },
+  "navigation": {
+    "home": "Sākums",
+    "products": "Produkti",
+    "services": "Pakalpojumi",
+    "about": "Par mums",
+    "contact": "Kontakti"
+  },
+  "contact": {
+    "title": "Kontakti",
+    "subtitle": "Sazinieties ar mūsu komandu",
+    "name": "Vārds",
+    "email": "E-pasts",
+    "message": "Ziņojums",
+    "submit": "Sūtīt",
+    "success": "Ziņojums veiksmīgi nosūtīts",
+    "error": "Kļūda sūtot ziņojumu"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL Matiņu Noņemšanas Ierīces",
+      "description": "Profesionālas IPL ierīces efektīvai matiņu noņemšanai",
+      "features": {
+        "title": "Galvenās funkcijas",
+        "safety": "Uzlabotas drošības funkcijas",
+        "effectiveness": "Pierādīta efektivitāte",
+        "comfort": "Maksimāls komforts",
+        "technology": "Jaunākā tehnoloģija"
+      }
+    }
+  },
+  "customization": {
+    "title": "Pielāgošanas iespējas",
+    "description": "Pielāgojiet savu IPL ierīci jūsu zīmolam",
+    "options": {
+      "design": "Pielāgots dizains",
+      "features": "Funkciju izvēle",
+      "branding": "Zīmola integrācija",
+      "packaging": "Pielāgots iepakojums"
+    }
+  },
+  "services": {
+    "title": "Mūsu pakalpojumi",
+    "description": "Visaptverošs risinājums IPL ierīču ražošanai",
+    "types": {
+      "manufacturing": "Ražošana",
+      "design": "Dizains",
+      "consulting": "Konsultācijas",
+      "support": "Tehniskais atbalsts"
+    }
+  },
+  "quality": {
+    "title": "Kvalitātes nodrošināšana",
+    "description": "Atbilstība starptautiskajiem standartiem",
+    "certifications": {
+      "title": "Sertifikāti",
+      "ce": "CE sertificēts",
+      "fda": "FDA apstiprināts",
+      "rohs": "RoHS saderīgs"
+    }
+  },
+  "about": {
+    "title": "Par mums",
+    "description": "Jūsu uzticamais partneris IPL ierīču ražošanā",
+    "values": {
+      "title": "Mūsu vērtības",
+      "innovation": "Inovācija",
+      "quality": "Kvalitāte",
+      "reliability": "Uzticamība",
+      "partnership": "Partnerība"
+    }
+  },
+  "footer": {
+    "company": "Uzņēmums",
+    "products": "Produkti",
+    "support": "Atbalsts",
+    "legal": "Juridiskā informācija",
+    "copyright": "© 2024 iShine. Visas tiesības aizsargātas."
+  }
+}

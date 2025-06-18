@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Méi liesen",
+    "contactUs": "Kontaktéiert eis",
+    "learnMore": "Méi gewuer ginn",
+    "getStarted": "Ufänken",
+    "viewDetails": "Detailer weisen",
+    "features": "Funktiounen",
+    "benefits": "Virdeeler",
+    "specifications": "Spezifikatiounen",
+    "applications": "Uwendungen",
+    "customization": "Personaliséierung",
+    "quality": "Qualitéit",
+    "support": "Support"
+  },
+  "navigation": {
+    "home": "Haaptsäit",
+    "products": "Produkter",
+    "services": "Servicer",
+    "about": "Iwwer eis",
+    "contact": "Kontakt"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontaktéiert eist Team",
+    "name": "Numm",
+    "email": "E-Mail",
+    "message": "Message",
+    "submit": "Schécken",
+    "success": "Message erfollegräich geschéckt",
+    "error": "Feeler beim Schécke vum Message"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL Hoerewegmaach Apparater",
+      "description": "Professionell IPL Apparater fir effektiv Hoerewegmaachen",
+      "features": {
+        "title": "Haaptfunktiounen",
+        "safety": "Fortgeschratt Sécherheetsfonktiounen",
+        "effectiveness": "Bewisen Effektivitéit",
+        "comfort": "Maximal Komfort",
+        "technology": "Neist Technologie"
+      }
+    }
+  },
+  "customization": {
+    "title": "Personaliséierungsoptiounen",
+    "description": "Personaliséiert Ären IPL Apparat fir Är Mark",
+    "options": {
+      "design": "Personaliséiert Design",
+      "features": "Funktiouns Auswiel",
+      "branding": "Mark Integratioun",
+      "packaging": "Personaliséiert Verpackung"
+    }
+  },
+  "services": {
+    "title": "Eis Servicer",
+    "description": "Komplett Léisunge fir IPL Apparater Produktioun",
+    "types": {
+      "manufacturing": "Produktioun",
+      "design": "Design",
+      "consulting": "Berodung",
+      "support": "Technesch Ënnerstëtzung"
+    }
+  },
+  "quality": {
+    "title": "Qualitéitssécherung",
+    "description": "Konform mat internationale Standarden",
+    "certifications": {
+      "title": "Zertifizéierungen",
+      "ce": "CE zertifizéiert",
+      "fda": "FDA zougelooss",
+      "rohs": "RoHS konform"
+    }
+  },
+  "about": {
+    "title": "Iwwer eis",
+    "description": "Ären zouverlässege Partner an der IPL Apparater Produktioun",
+    "values": {
+      "title": "Eis Wäerter",
+      "innovation": "Innovatioun",
+      "quality": "Qualitéit",
+      "reliability": "Zouverlässegkeet",
+      "partnership": "Partnerschaft"
+    }
+  },
+  "footer": {
+    "company": "Firma",
+    "products": "Produkter",
+    "support": "Support",
+    "legal": "Legal",
+    "copyright": "© 2024 iShine. All Rechter virbehalen."
+  }
+}

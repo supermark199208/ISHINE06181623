@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Loe rohkem",
+    "contactUs": "Võta meiega ühendust",
+    "learnMore": "Uuri lähemalt",
+    "getStarted": "Alusta",
+    "viewDetails": "Vaata üksikasju",
+    "features": "Omadused",
+    "benefits": "Eelised",
+    "specifications": "Tehnilised andmed",
+    "applications": "Rakendused",
+    "customization": "Kohandamine",
+    "quality": "Kvaliteet",
+    "support": "Tugi"
+  },
+  "navigation": {
+    "home": "Avaleht",
+    "products": "Tooted",
+    "services": "Teenused",
+    "about": "Meist",
+    "contact": "Kontakt"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Võta ühendust meie meeskonnaga",
+    "name": "Nimi",
+    "email": "E-post",
+    "message": "Sõnum",
+    "submit": "Saada",
+    "success": "Sõnum edukalt saadetud",
+    "error": "Viga sõnumi saatmisel"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL Karvaeemaldusseadmed",
+      "description": "Professionaalsed IPL seadmed efektiivseks karvaeemalduseks",
+      "features": {
+        "title": "Põhiomadused",
+        "safety": "Täiustatud ohutusfunktsioonid",
+        "effectiveness": "Tõestatud efektiivsus",
+        "comfort": "Maksimaalne mugavus",
+        "technology": "Uusim tehnoloogia"
+      }
+    }
+  },
+  "customization": {
+    "title": "Kohandamisvõimalused",
+    "description": "Kohanda oma IPL seade oma brändile",
+    "options": {
+      "design": "Kohandatud disain",
+      "features": "Funktsioonide valik",
+      "branding": "Brändi integreerimine",
+      "packaging": "Kohandatud pakend"
+    }
+  },
+  "services": {
+    "title": "Meie teenused",
+    "description": "Terviklikud lahendused IPL seadmete tootmiseks",
+    "types": {
+      "manufacturing": "Tootmine",
+      "design": "Disain",
+      "consulting": "Konsultatsioon",
+      "support": "Tehniline tugi"
+    }
+  },
+  "quality": {
+    "title": "Kvaliteedi tagamine",
+    "description": "Vastavus rahvusvahelistele standarditele",
+    "certifications": {
+      "title": "Sertifikaadid",
+      "ce": "CE sertifitseeritud",
+      "fda": "FDA heakskiidetud",
+      "rohs": "RoHS ühilduv"
+    }
+  },
+  "about": {
+    "title": "Meist",
+    "description": "Teie usaldusväärne partner IPL seadmete tootmises",
+    "values": {
+      "title": "Meie väärtused",
+      "innovation": "Innovatsioon",
+      "quality": "Kvaliteet",
+      "reliability": "Usaldusväärsus",
+      "partnership": "Partnerlus"
+    }
+  },
+  "footer": {
+    "company": "Ettevõte",
+    "products": "Tooted",
+    "support": "Tugi",
+    "legal": "Juriidiline",
+    "copyright": "© 2024 iShine. Kõik õigused kaitstud."
+  }
+}

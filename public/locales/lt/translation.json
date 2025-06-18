@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Skaityti daugiau",
+    "contactUs": "Susisiekite su mumis",
+    "learnMore": "Sužinoti daugiau",
+    "getStarted": "Pradėti",
+    "viewDetails": "Žiūrėti detales",
+    "features": "Funkcijos",
+    "benefits": "Privalumai",
+    "specifications": "Specifikacijos",
+    "applications": "Pritaikymai",
+    "customization": "Pritaikymas",
+    "quality": "Kokybė",
+    "support": "Pagalba"
+  },
+  "navigation": {
+    "home": "Pradžia",
+    "products": "Produktai",
+    "services": "Paslaugos",
+    "about": "Apie mus",
+    "contact": "Kontaktai"
+  },
+  "contact": {
+    "title": "Kontaktai",
+    "subtitle": "Susisiekite su mūsų komanda",
+    "name": "Vardas",
+    "email": "El. paštas",
+    "message": "Žinutė",
+    "submit": "Siųsti",
+    "success": "Žinutė sėkmingai išsiųsta",
+    "error": "Klaida siunčiant žinutę"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL Plaukų Šalinimo Prietaisai",
+      "description": "Profesionalūs IPL prietaisai efektyviam plaukų šalinimui",
+      "features": {
+        "title": "Pagrindinės funkcijos",
+        "safety": "Pažangios saugumo funkcijos",
+        "effectiveness": "Įrodytas efektyvumas",
+        "comfort": "Maksimalus komfortas",
+        "technology": "Naujausia technologija"
+      }
+    }
+  },
+  "customization": {
+    "title": "Pritaikymo galimybės",
+    "description": "Pritaikykite savo IPL prietaisą jūsų prekės ženklui",
+    "options": {
+      "design": "Pritaikytas dizainas",
+      "features": "Funkcijų pasirinkimas",
+      "branding": "Prekės ženklo integracija",
+      "packaging": "Pritaikyta pakuotė"
+    }
+  },
+  "services": {
+    "title": "Mūsų paslaugos",
+    "description": "Visapusiški sprendimai IPL prietaisų gamybai",
+    "types": {
+      "manufacturing": "Gamyba",
+      "design": "Dizainas",
+      "consulting": "Konsultavimas",
+      "support": "Techninė pagalba"
+    }
+  },
+  "quality": {
+    "title": "Kokybės užtikrinimas",
+    "description": "Atitiktis tarptautiniams standartams",
+    "certifications": {
+      "title": "Sertifikatai",
+      "ce": "CE sertifikuotas",
+      "fda": "FDA patvirtintas",
+      "rohs": "RoHS suderinamas"
+    }
+  },
+  "about": {
+    "title": "Apie mus",
+    "description": "Jūsų patikimas partneris IPL prietaisų gamyboje",
+    "values": {
+      "title": "Mūsų vertybės",
+      "innovation": "Inovacijos",
+      "quality": "Kokybė",
+      "reliability": "Patikimumas",
+      "partnership": "Partnerystė"
+    }
+  },
+  "footer": {
+    "company": "Įmonė",
+    "products": "Produktai",
+    "support": "Pagalba",
+    "legal": "Teisinė informacija",
+    "copyright": "© 2024 iShine. Visos teisės saugomos."
+  }
+}

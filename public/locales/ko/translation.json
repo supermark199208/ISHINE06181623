@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "더 보기",
+    "contactUs": "문의하기",
+    "learnMore": "자세히 알아보기",
+    "getStarted": "시작하기",
+    "viewDetails": "상세 보기",
+    "features": "특징",
+    "benefits": "장점",
+    "specifications": "사양",
+    "applications": "응용",
+    "customization": "맞춤화",
+    "quality": "품질",
+    "support": "지원"
+  },
+  "navigation": {
+    "home": "홈",
+    "products": "제품",
+    "services": "서비스",
+    "about": "회사 소개",
+    "contact": "연락처"
+  },
+  "contact": {
+    "title": "연락처",
+    "subtitle": "우리 팀에 연락하세요",
+    "name": "이름",
+    "email": "이메일",
+    "message": "메시지",
+    "submit": "보내기",
+    "success": "메시지가 성공적으로 전송되었습니다",
+    "error": "메시지 전송 중 오류가 발생했습니다"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL 제모 기기",
+      "description": "효과적인 제모를 위한 전문가용 IPL 기기",
+      "features": {
+        "title": "주요 특징",
+        "safety": "고급 안전 기능",
+        "effectiveness": "입증된 효과",
+        "comfort": "최대 편안함",
+        "technology": "최신 기술"
+      }
+    }
+  },
+  "customization": {
+    "title": "맞춤화 옵션",
+    "description": "귀사의 브랜드에 맞게 IPL 기기를 맞춤화하세요",
+    "options": {
+      "design": "맞춤 디자인",
+      "features": "기능 선택",
+      "branding": "브랜드 통합",
+      "packaging": "맞춤 포장"
+    }
+  },
+  "services": {
+    "title": "서비스",
+    "description": "종합적인 IPL 기기 제조 솔루션",
+    "types": {
+      "manufacturing": "제조",
+      "design": "디자인",
+      "consulting": "컨설팅",
+      "support": "기술 지원"
+    }
+  },
+  "quality": {
+    "title": "품질 보증",
+    "description": "국제 표준 준수",
+    "certifications": {
+      "title": "인증",
+      "ce": "CE 인증",
+      "fda": "FDA 승인",
+      "rohs": "RoHS 준수"
+    }
+  },
+  "about": {
+    "title": "회사 소개",
+    "description": "IPL 기기 제조의 신뢰할 수 있는 파트너",
+    "values": {
+      "title": "우리의 가치",
+      "innovation": "혁신",
+      "quality": "품질",
+      "reliability": "신뢰성",
+      "partnership": "파트너십"
+    }
+  },
+  "footer": {
+    "company": "회사",
+    "products": "제품",
+    "support": "지원",
+    "legal": "법적 고지",
+    "copyright": "© 2024 iShine. 모든 권리 보유."
+  }
+}

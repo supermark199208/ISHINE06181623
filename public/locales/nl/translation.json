@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Lees meer",
+    "contactUs": "Contact",
+    "learnMore": "Meer informatie",
+    "getStarted": "Aan de slag",
+    "viewDetails": "Bekijk details",
+    "features": "Kenmerken",
+    "benefits": "Voordelen",
+    "specifications": "Specificaties",
+    "applications": "Toepassingen",
+    "customization": "Aanpassing",
+    "quality": "Kwaliteit",
+    "support": "Ondersteuning"
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Producten",
+    "services": "Diensten",
+    "about": "Over ons",
+    "contact": "Contact"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Neem contact op met ons team",
+    "name": "Naam",
+    "email": "E-mail",
+    "message": "Bericht",
+    "submit": "Versturen",
+    "success": "Bericht succesvol verzonden",
+    "error": "Fout bij het verzenden van bericht"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL Ontharingsapparaten",
+      "description": "Professionele IPL-apparaten voor effectieve ontharing",
+      "features": {
+        "title": "Belangrijkste kenmerken",
+        "safety": "Geavanceerde veiligheidsfuncties",
+        "effectiveness": "Bewezen effectiviteit",
+        "comfort": "Maximaal comfort",
+        "technology": "Nieuwste technologie"
+      }
+    }
+  },
+  "customization": {
+    "title": "Aanpassingsmogelijkheden",
+    "description": "Pas uw IPL-apparaat aan voor uw merk",
+    "options": {
+      "design": "Aangepast ontwerp",
+      "features": "Functieselectie",
+      "branding": "Merkintegratie",
+      "packaging": "Aangepaste verpakking"
+    }
+  },
+  "services": {
+    "title": "Onze diensten",
+    "description": "Complete oplossingen voor IPL-apparaat productie",
+    "types": {
+      "manufacturing": "Productie",
+      "design": "Ontwerp",
+      "consulting": "Advies",
+      "support": "Technische ondersteuning"
+    }
+  },
+  "quality": {
+    "title": "Kwaliteitsgarantie",
+    "description": "Voldoet aan internationale standaarden",
+    "certifications": {
+      "title": "Certificeringen",
+      "ce": "CE-gecertificeerd",
+      "fda": "FDA-goedgekeurd",
+      "rohs": "RoHS-conform"
+    }
+  },
+  "about": {
+    "title": "Over ons",
+    "description": "Uw betrouwbare partner in IPL-apparaat productie",
+    "values": {
+      "title": "Onze waarden",
+      "innovation": "Innovatie",
+      "quality": "Kwaliteit",
+      "reliability": "Betrouwbaarheid",
+      "partnership": "Partnerschap"
+    }
+  },
+  "footer": {
+    "company": "Bedrijf",
+    "products": "Producten",
+    "support": "Ondersteuning",
+    "legal": "Juridisch",
+    "copyright": "© 2024 iShine. Alle rechten voorbehouden."
+  }
+}

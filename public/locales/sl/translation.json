@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Preberi več",
+    "contactUs": "Kontaktirajte nas",
+    "learnMore": "Izvedite več",
+    "getStarted": "Začnite",
+    "viewDetails": "Ogled podrobnosti",
+    "features": "Funkcije",
+    "benefits": "Prednosti",
+    "specifications": "Specifikacije",
+    "applications": "Aplikacije",
+    "customization": "Prilagoditev",
+    "quality": "Kakovost",
+    "support": "Podpora"
+  },
+  "navigation": {
+    "home": "Domov",
+    "products": "Izdelki",
+    "services": "Storitve",
+    "about": "O nas",
+    "contact": "Kontakt"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontaktirajte našo ekipo",
+    "name": "Ime",
+    "email": "E-pošta",
+    "message": "Sporočilo",
+    "submit": "Pošlji",
+    "success": "Sporočilo je bilo uspešno poslano",
+    "error": "Napaka pri pošiljanju sporočila"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL Naprave za Odstranjevanje Dlak",
+      "description": "Profesionalne IPL naprave za učinkovito odstranjevanje dlak",
+      "features": {
+        "title": "Glavne funkcije",
+        "safety": "Napredne varnostne funkcije",
+        "effectiveness": "Dokazana učinkovitost",
+        "comfort": "Maksimalno udobje",
+        "technology": "Najnovejša tehnologija"
+      }
+    }
+  },
+  "customization": {
+    "title": "Možnosti prilagoditve",
+    "description": "Prilagodite vašo IPL napravo za vašo blagovno znamko",
+    "options": {
+      "design": "Prilagojena oblika",
+      "features": "Izbira funkcij",
+      "branding": "Integracija blagovne znamke",
+      "packaging": "Prilagojena embalaža"
+    }
+  },
+  "services": {
+    "title": "Naše storitve",
+    "description": "Celovite rešitve za proizvodnjo IPL naprav",
+    "types": {
+      "manufacturing": "Proizvodnja",
+      "design": "Oblikovanje",
+      "consulting": "Svetovanje",
+      "support": "Tehnična podpora"
+    }
+  },
+  "quality": {
+    "title": "Zagotavljanje kakovosti",
+    "description": "Skladnost z mednarodnimi standardi",
+    "certifications": {
+      "title": "Certifikati",
+      "ce": "CE certificirano",
+      "fda": "FDA odobreno",
+      "rohs": "RoHS skladno"
+    }
+  },
+  "about": {
+    "title": "O nas",
+    "description": "Vaš zanesljiv partner pri proizvodnji IPL naprav",
+    "values": {
+      "title": "Naše vrednote",
+      "innovation": "Inovativnost",
+      "quality": "Kakovost",
+      "reliability": "Zanesljivost",
+      "partnership": "Partnerstvo"
+    }
+  },
+  "footer": {
+    "company": "Podjetje",
+    "products": "Izdelki",
+    "support": "Podpora",
+    "legal": "Pravno",
+    "copyright": "© 2024 iShine. Vse pravice pridržane."
+  }
+}

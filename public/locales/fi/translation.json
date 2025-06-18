@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Lue lisää",
+    "contactUs": "Ota yhteyttä",
+    "learnMore": "Lue lisää",
+    "getStarted": "Aloita",
+    "viewDetails": "Katso tiedot",
+    "features": "Ominaisuudet",
+    "benefits": "Hyödyt",
+    "specifications": "Tekniset tiedot",
+    "applications": "Sovellukset",
+    "customization": "Räätälöinti",
+    "quality": "Laatu",
+    "support": "Tuki"
+  },
+  "navigation": {
+    "home": "Etusivu",
+    "products": "Tuotteet",
+    "services": "Palvelut",
+    "about": "Tietoa meistä",
+    "contact": "Yhteystiedot"
+  },
+  "contact": {
+    "title": "Yhteystiedot",
+    "subtitle": "Ota yhteyttä tiimiimme",
+    "name": "Nimi",
+    "email": "Sähköposti",
+    "message": "Viesti",
+    "submit": "Lähetä",
+    "success": "Viesti lähetetty onnistuneesti",
+    "error": "Virhe viestin lähetyksessä"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL-karvanpoistolaitteet",
+      "description": "Ammattimaiset IPL-laitteet tehokkaaseen karvanpoistoon",
+      "features": {
+        "title": "Tärkeimmät ominaisuudet",
+        "safety": "Edistyneet turvallisuusominaisuudet",
+        "effectiveness": "Todistettu tehokkuus",
+        "comfort": "Maksimaalinen mukavuus",
+        "technology": "Uusin teknologia"
+      }
+    }
+  },
+  "customization": {
+    "title": "Räätälöintivaihtoehdot",
+    "description": "Räätälöi IPL-laitteesi brändillesi sopivaksi",
+    "options": {
+      "design": "Mukautettu muotoilu",
+      "features": "Ominaisuuksien valinta",
+      "branding": "Brändi-integraatio",
+      "packaging": "Mukautettu pakkaus"
+    }
+  },
+  "services": {
+    "title": "Palvelumme",
+    "description": "Kattavat ratkaisut IPL-laitteiden valmistukseen",
+    "types": {
+      "manufacturing": "Valmistus",
+      "design": "Suunnittelu",
+      "consulting": "Konsultointi",
+      "support": "Tekninen tuki"
+    }
+  },
+  "quality": {
+    "title": "Laadunvarmistus",
+    "description": "Kansainvälisten standardien mukainen",
+    "certifications": {
+      "title": "Sertifioinnit",
+      "ce": "CE-sertifioitu",
+      "fda": "FDA-hyväksytty",
+      "rohs": "RoHS-yhteensopiva"
+    }
+  },
+  "about": {
+    "title": "Tietoa meistä",
+    "description": "Luotettava kumppanisi IPL-laitteiden valmistuksessa",
+    "values": {
+      "title": "Arvomme",
+      "innovation": "Innovaatio",
+      "quality": "Laatu",
+      "reliability": "Luotettavuus",
+      "partnership": "Kumppanuus"
+    }
+  },
+  "footer": {
+    "company": "Yritys",
+    "products": "Tuotteet",
+    "support": "Tuki",
+    "legal": "Lakiasiat",
+    "copyright": "© 2024 iShine. Kaikki oikeudet pidätetään."
+  }
+}

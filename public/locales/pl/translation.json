@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Czytaj więcej",
+    "contactUs": "Kontakt",
+    "learnMore": "Dowiedz się więcej",
+    "getStarted": "Rozpocznij",
+    "viewDetails": "Zobacz szczegóły",
+    "features": "Funkcje",
+    "benefits": "Korzyści",
+    "specifications": "Specyfikacje",
+    "applications": "Zastosowania",
+    "customization": "Personalizacja",
+    "quality": "Jakość",
+    "support": "Wsparcie"
+  },
+  "navigation": {
+    "home": "Strona główna",
+    "products": "Produkty",
+    "services": "Usługi",
+    "about": "O nas",
+    "contact": "Kontakt"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Skontaktuj się z naszym zespołem",
+    "name": "Imię",
+    "email": "E-mail",
+    "message": "Wiadomość",
+    "submit": "Wyślij",
+    "success": "Wiadomość została wysłana pomyślnie",
+    "error": "Błąd podczas wysyłania wiadomości"
+  },
+  "products": {
+    "ipl": {
+      "title": "Urządzenia do depilacji IPL",
+      "description": "Profesjonalne urządzenia IPL do skutecznej depilacji",
+      "features": {
+        "title": "Główne cechy",
+        "safety": "Zaawansowane funkcje bezpieczeństwa",
+        "effectiveness": "Udowodniona skuteczność",
+        "comfort": "Maksymalny komfort",
+        "technology": "Najnowsza technologia"
+      }
+    }
+  },
+  "customization": {
+    "title": "Opcje personalizacji",
+    "description": "Dostosuj swoje urządzenie IPL do swojej marki",
+    "options": {
+      "design": "Niestandardowy design",
+      "features": "Wybór funkcji",
+      "branding": "Integracja marki",
+      "packaging": "Spersonalizowane opakowanie"
+    }
+  },
+  "services": {
+    "title": "Nasze usługi",
+    "description": "Kompleksowe rozwiązania w produkcji urządzeń IPL",
+    "types": {
+      "manufacturing": "Produkcja",
+      "design": "Projektowanie",
+      "consulting": "Doradztwo",
+      "support": "Wsparcie techniczne"
+    }
+  },
+  "quality": {
+    "title": "Zapewnienie jakości",
+    "description": "Zgodność z międzynarodowymi standardami",
+    "certifications": {
+      "title": "Certyfikaty",
+      "ce": "Certyfikat CE",
+      "fda": "Zatwierdzone przez FDA",
+      "rohs": "Zgodne z RoHS"
+    }
+  },
+  "about": {
+    "title": "O nas",
+    "description": "Twój zaufany partner w produkcji urządzeń IPL",
+    "values": {
+      "title": "Nasze wartości",
+      "innovation": "Innowacja",
+      "quality": "Jakość",
+      "reliability": "Niezawodność",
+      "partnership": "Partnerstwo"
+    }
+  },
+  "footer": {
+    "company": "Firma",
+    "products": "Produkty",
+    "support": "Wsparcie",
+    "legal": "Informacje prawne",
+    "copyright": "© 2024 iShine. Wszelkie prawa zastrzeżone."
+  }
+}

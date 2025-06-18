@@ -1,0 +1,94 @@
+{
+  "common": {
+    "readMore": "Čítať viac",
+    "contactUs": "Kontaktujte nás",
+    "learnMore": "Zistiť viac",
+    "getStarted": "Začať",
+    "viewDetails": "Zobraziť detaily",
+    "features": "Funkcie",
+    "benefits": "Výhody",
+    "specifications": "Špecifikácie",
+    "applications": "Aplikácie",
+    "customization": "Prispôsobenie",
+    "quality": "Kvalita",
+    "support": "Podpora"
+  },
+  "navigation": {
+    "home": "Domov",
+    "products": "Produkty",
+    "services": "Služby",
+    "about": "O nás",
+    "contact": "Kontakt"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontaktujte náš tím",
+    "name": "Meno",
+    "email": "E-mail",
+    "message": "Správa",
+    "submit": "Odoslať",
+    "success": "Správa bola úspešne odoslaná",
+    "error": "Chyba pri odosielaní správy"
+  },
+  "products": {
+    "ipl": {
+      "title": "IPL Epilačné Zariadenia",
+      "description": "Profesionálne IPL zariadenia pre efektívnu epiláciu",
+      "features": {
+        "title": "Hlavné funkcie",
+        "safety": "Pokročilé bezpečnostné funkcie",
+        "effectiveness": "Preukázaná účinnosť",
+        "comfort": "Maximálne pohodlie",
+        "technology": "Najnovšia technológia"
+      }
+    }
+  },
+  "customization": {
+    "title": "Možnosti prispôsobenia",
+    "description": "Prispôsobte si svoje IPL zariadenie pre vašu značku",
+    "options": {
+      "design": "Vlastný dizajn",
+      "features": "Výber funkcií",
+      "branding": "Integrácia značky",
+      "packaging": "Vlastné balenie"
+    }
+  },
+  "services": {
+    "title": "Naše služby",
+    "description": "Komplexné riešenia pre výrobu IPL zariadení",
+    "types": {
+      "manufacturing": "Výroba",
+      "design": "Dizajn",
+      "consulting": "Poradenstvo",
+      "support": "Technická podpora"
+    }
+  },
+  "quality": {
+    "title": "Zabezpečenie kvality",
+    "description": "Súlad s medzinárodnými štandardmi",
+    "certifications": {
+      "title": "Certifikácie",
+      "ce": "CE certifikované",
+      "fda": "FDA schválené",
+      "rohs": "RoHS kompatibilné"
+    }
+  },
+  "about": {
+    "title": "O nás",
+    "description": "Váš spoľahlivý partner vo výrobe IPL zariadení",
+    "values": {
+      "title": "Naše hodnoty",
+      "innovation": "Inovácia",
+      "quality": "Kvalita",
+      "reliability": "Spoľahlivosť",
+      "partnership": "Partnerstvo"
+    }
+  },
+  "footer": {
+    "company": "Spoločnosť",
+    "products": "Produkty",
+    "support": "Podpora",
+    "legal": "Právne",
+    "copyright": "© 2024 iShine. Všetky práva vyhradené."
+  }
+}
