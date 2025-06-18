@@ -2,7 +2,7 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import Header from '../../components/Header';
 import Contact from '../../components/Contact';
-import { Eye, Shield, Sparkles, Zap, Target, Settings } from 'lucide-react';
+import { Zap, Battery, Shield, Gauge, Plug, Settings, ChevronRight } from 'lucide-react';
 
 const OpticalFiltersPage = () => {
   const { t } = useTranslation();
@@ -61,7 +61,7 @@ const OpticalFiltersPage = () => {
                 <h3 className="text-xl font-semibold">Optical Properties</h3>
                 <ul className="mt-2 space-y-2 text-gray-600">
                   <li>• Transmission range: 510-1200nm</li>
-                  <li>• UV blocking: >99.9%</li>
+                  <li>• UV blocking: <ChevronRight className="h-5 w-5" />99.9%</li>
                   <li>• Thermal resistance: Up to 200°C</li>
                 </ul>
               </div>
@@ -123,7 +123,7 @@ const OpticalFiltersPage = () => {
             <div className="rounded-lg bg-gray-50 p-6">
               <div className="flex items-center gap-4">
                 <Target className="h-8 w-8 text-primary-600" />
-                <h3 className="text-xl font-semibold">Treatment Types</h3>
+                <h3 className="text-xl font-semibold">Treatment Types</h3>1
               </div>
               <ul className="mt-4 space-y-2 text-gray-600">
                 <li>• Permanent hair reduction</li>
